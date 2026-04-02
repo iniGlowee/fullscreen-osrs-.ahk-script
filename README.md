@@ -1,13 +1,15 @@
 # fullscreen-osrs-.ahk-script
 *This auto hot key script enables the user to modify the Old School RuneScape client window to be fullscreen.*
 
---Commands--:
+Commands:
 
 F11 -> Enter Fullscreen
+
 ESC -> Exit Fullscreen
+
 Ctrl+q -> Exit Fullscreen & Exit AHK script
 
---Notes--:
+Notes:
 
 0.
 Original code was written by `Aaron C` on a synthe forum here: 
